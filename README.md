@@ -2,7 +2,7 @@
 
 # <h1 align=center> **PROYECTO INDIVIDUAL 03 LEONARDO CUETO** </h1>
 
-# <h1 align=center>**`Business Analitics`**</h1>
+# <h1 align=center>**`Business Analytics`**</h1>
 
 
 ## **Introducción**
@@ -21,7 +21,7 @@ Posteriormente se realiza un EDA y un poco Business Analytics para poder generar
 
 ## **Estructura del proyecto**
 
-El proyecto tiene 6 carpetas principales: 
+El proyecto tiene 4 carpetas principales: 
 
 1. main1.ipynb - contiene el código del EDA correspondiente para poder generar conclusiones.
 
